@@ -1,0 +1,7 @@
+{
+  "server": "localhost",
+  "database": "SuperMarket",
+  "user": "sa",
+  "password": "sapins@071",
+  "options": { "encrypt": false, "trustServerCertificate": true }
+}
